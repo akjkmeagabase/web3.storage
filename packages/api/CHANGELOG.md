@@ -1,5 +1,22 @@
 # Changelog
 
+## [5.1.0](https://github.com/web3-storage/web3.storage/compare/api-v5.0.8...api-v5.1.0) (2022-01-28)
+
+
+### Features
+
+* add origins to psa pin request ([#897](https://github.com/web3-storage/web3.storage/issues/897)) ([0056679](https://github.com/web3-storage/web3.storage/commit/00566792980b42431fa9edc55add3c7ec0618732))
+* filter pins by status ([#848](https://github.com/web3-storage/web3.storage/issues/848)) ([df1582b](https://github.com/web3-storage/web3.storage/commit/df1582b6b7d9fef45f832212d8df13aa29f246f3))
+* pinning api allowlist ([#705](https://github.com/web3-storage/web3.storage/issues/705)) ([ed3a08d](https://github.com/web3-storage/web3.storage/commit/ed3a08d9ec4a7c7a746ffd5de06319a1ba5b1dad))
+* pinning API implementation ([8187bb5](https://github.com/web3-storage/web3.storage/commit/8187bb5891ccf73c35289fd9f265ea110cbd5b9a))
+
+
+### Bug Fixes
+
+* return right psa status in APIs ([445fd12](https://github.com/web3-storage/web3.storage/commit/445fd1289d1eeaa1063b5d12d9de5fb0fee773cf))
+* sentry version cannot contain slash ([#924](https://github.com/web3-storage/web3.storage/issues/924)) ([3449af4](https://github.com/web3-storage/web3.storage/commit/3449af46517989e0ba9a42785d996dba64861912))
+* update name in pinning status filtering test ([57eaf6c](https://github.com/web3-storage/web3.storage/commit/57eaf6c9e892be637b0cc182804ea10be2f3c4a0))
+
 ### [5.0.8](https://www.github.com/web3-storage/web3.storage/compare/api-v5.0.7...api-v5.0.8) (2022-01-17)
 
 
